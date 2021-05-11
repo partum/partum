@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @partum
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on design to code
-- 📫 How to reach me jarringt@uccs.edu
+Yes my website (juliaarrington.com) is broken (due to a miscommunication with my hosting service.) I hope you can find projects of interest on my regular ol' GitHub.
 
 <!---
 partum/partum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
