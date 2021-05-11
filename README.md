@@ -1,6 +1,3 @@
-Yes my website (juliaarrington.com) is broken (due to a miscommunication with my hosting service.) I hope you can find projects of interest on my regular ol' GitHub.
-
-<!---
-partum/partum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌞 Hi! I'm @partum (which means gains/delivery in latin
+🍱 I am a front end developer. I like working in React, but I'm always learning something new.
+🛸 Don't hesitate to reach out if you want to swap coding tips, ask advice on learning to code, or if you want to work on a project.
